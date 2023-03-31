@@ -1,0 +1,21 @@
+table,thead,td,th{
+    border: 1px solid rgb(249, 246, 246);
+    align-items: center;
+    margin-left: 230px;
+}
+  .root{
+    color: black;
+  }
+td{
+    align-items: center;
+    background-color: rgba(128, 128, 128, 0.405);
+    text-align: center;
+}  
+table,thead{
+    border-collapse: collapse;
+width: 100px;
+}
+th{
+    padding: 15px;
+    
+}
